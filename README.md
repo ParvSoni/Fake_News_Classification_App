@@ -1,4 +1,5 @@
 # Fake_News_Detection_App
+### Dataset Link - https://www.kaggle.com/c/fake-news/data?select=train.csv
 The Fake News Detection App Project is a data science and machine learning endeavor aimed at developing a user-friendly application for the identification of fake news articles. In this project, a dataset of news articles was preprocessed, and a machine learning model, employing an advanced technique known as the Decision Tree Classifier, was trained to classify articles as either fake or real. The final output is a streamlined, user-friendly web application built with Streamlit, enabling users to easily verify the authenticity of news articles.
 ## Project Steps:
 ### Dataset Preprocessing:
