@@ -21,3 +21,5 @@ User Interface: A user-friendly web application was developed using Streamlit, a
 Input Interface: The app allows users to input a news article for analysis.
 Classification Output: The application provides an instant classification result, indicating whether the input article is real or fake.
 Visualizations: Visual aids, such as decision tree diagrams, could be incorporated to help users understand how the model arrived at its decision.
+## Video For Explanation :
+[Fake News Detection App.webm](https://github.com/ParvSoni/Fake_News_Detection_App/assets/123165567/6b1f4b7c-0b53-4ae9-817e-533af673b1af)
