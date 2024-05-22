@@ -1,5 +1,0 @@
-streamlit
-pickle
-re
-nltk
-sklearn
