@@ -3,6 +3,7 @@ import pickle
 import re
 import nltk
 from nltk.corpus import stopwords
+nltk.download('stopwords')
 from nltk.stem.porter import PorterStemmer
 from sklearn.feature_extraction.text import TfidfVectorizer
 port_stem = PorterStemmer()
